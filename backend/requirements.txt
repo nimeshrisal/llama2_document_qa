@@ -1,0 +1,9 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+llama-index-core==0.10.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+replicate==0.11.1
+sentence-transformers==2.2.2
+pypdf==3.17.4
+docx2txt==1.1
