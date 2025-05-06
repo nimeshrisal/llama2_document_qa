@@ -18,5 +18,3 @@ export const indexDocuments = async () => {
 export const askQuestion = async (question: string) => {
     const response = await axios.post(`${API_BASE}/ask`, { question });
 };
-
-axios.get(`${API_BASE}/test`);
